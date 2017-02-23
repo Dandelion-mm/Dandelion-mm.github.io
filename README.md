@@ -1,2 +1,2 @@
 # Dandelion-mm.github.io
-This is my website.
+このサイトは、新潟大学のバイクサークル「ちょびのり」の公式サイトです。
