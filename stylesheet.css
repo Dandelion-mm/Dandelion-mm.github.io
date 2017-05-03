@@ -83,38 +83,30 @@ li {
   color: #40BFB0;
 }
 
-.contents-top {
+.contents-introduce {
   height: 300px;
   color: #808080;
 }
 
-.contents-top h1 {
+.contents-introduce h1 {
   margin-bottom: 30px;
 }
 
-.contents-top-item {
+.contents-introduce-item {
   width: 270px;
   float: left;
   padding-right: 30px;
 }
 
-.contents-top-item h2 {
+.contents-introduce-item h2 {
   margin-bottom: 10px;
 }
 
-.what-highlight {
+.who-highlight {
   color: #e6855e;
 }
 
-.why-highlight {
-  color: #40bfb0;
-}
-
-.how-highlight {
-  color: #f9db57;
-}
-
-.contents-bottom h1 {
+.contents-ability h1 {
   margin-bottom: 30px;
 }
 
@@ -128,14 +120,14 @@ table {
   border-collapse: collapse;
 }
 
-.html-title {
+.fe-title {
   color: #E6855E;
 }
 
-.css-title {
+.ap-title {
   color: #40BFB0;
 }
 
-.php-title {
+.sc-title {
   color: #F9DB57;
 }
