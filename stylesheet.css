@@ -140,6 +140,20 @@ table {
     color: #F9DB57;
 }
 
+.blog {
+    height: 1200px;
+    width: 900px;
+    float: left;
+    padding: 30px;
+}
+
 .blog h1 {
     border-left: 1px solid #dddddd;
+}
+
+.contact {
+    height: 1200px;
+    width: 900px;
+    float: left;
+    padding: 30px;
 }
