@@ -141,8 +141,5 @@ table {
 }
 
 .blog h1 {
-    list-style: none;
-    float: left;
-    padding: 20px 30px;
     border-left: 1px solid #dddddd;
 }
