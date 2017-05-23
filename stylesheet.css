@@ -1,4 +1,6 @@
 
+/* header */
+
 .header {
     height: 65px;
     border-bottom: 1px solid #dddddd;
@@ -22,6 +24,8 @@
     padding: 20px 30px;
     border-left: 1px solid #dddddd;
 }
+
+
 
 .selected {
     color: #ED7000;
@@ -87,7 +91,7 @@
 }
 
 .contents-introduce {
-    //height: 300px;
+    height: 300px;
     color: #808080;
 }
 
@@ -149,6 +153,12 @@ table {
 
 .blog h1 {
     border-left: 1px solid #dddddd;
+}
+
+.blog ul li.new:after {
+    content:"new";
+    color: #ff0000;
+    font-size: smaller;
 }
 
 .contact {
