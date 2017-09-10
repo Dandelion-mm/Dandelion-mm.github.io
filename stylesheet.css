@@ -102,17 +102,25 @@
 }
 
 .contents-introduce-item {
-    width: 100px;
-    float: left;
-    padding-right: 30px;
+  width: 100px;
+  float: left;
+  padding-right: 30px;
 }
 
 .contents-introduce-item h2 {
-    margin-bottom: 10px;
+  margin-bottom: 10px;
 }
 
 .who-highlight {
-    color: #e6855e;
+  color: #ff7300;
+}
+
+.where-highlight {
+  color: #3b00ff;
+}
+
+.what-highlight {
+  color: #128c1a;
 }
 
 .contents-ability h2{
