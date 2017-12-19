@@ -8,7 +8,7 @@
 
 .header-left {
   float: left;
-  padding: 10px 60px;
+  padding: 30px 100px;
   color: #ED7000;
   font-size: 30px;
 }
@@ -159,6 +159,7 @@ table {
   width: 900px;
   float: left;
   padding: 30px;
+  overflow: scroll;
 }
 
 .log h1 {
@@ -170,9 +171,10 @@ table {
   color: #ff0000;
   font-size: smaller;
 }
+
 /*
 .log ul {
-  list-style:none;
+  list-style: none;
 }
 */
 
