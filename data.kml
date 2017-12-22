@@ -19,7 +19,7 @@
     </Style>
 
     <Placemark>
-      <name>Blue Line</name>
+      <name>コスモスクエア</name>
       <styleUrl>#blueLine</styleUrl>
       <LineString>
         <altitudeMode>relative</altitudeMode>
