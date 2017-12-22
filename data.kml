@@ -8,10 +8,10 @@
 -->
 
   <Document>
-    <name>コスモスクエア</name>
-    <description>宿泊施設</description>
+    <name>cosmo</name>
+    <description>cosmo</description>
 
-    <Style id="blueLine">
+    <Style id = "blueLine">
       <LineStyle>
         <color>ffff0000</color>
         <width>4</width>
@@ -19,7 +19,7 @@
     </Style>
 
     <Placemark>
-      <name>コスモスクエア</name>
+      <name>cosmo</name>
       <styleUrl>#blueLine</styleUrl>
       <LineString>
         <altitudeMode>relative</altitudeMode>
