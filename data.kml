@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <kml xmlns="http://earth.google.com/kml/2.1">
 
 <!-- Data derived from:
@@ -9,6 +8,8 @@
 -->
 
   <Document>
+    <name>Chicago Transit Map</name>
+    <description>Chicago Transit Authority train lines</description>
 
     <Style id="blueLine">
       <LineStyle>
