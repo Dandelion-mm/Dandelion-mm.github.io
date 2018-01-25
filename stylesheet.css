@@ -169,7 +169,6 @@ table {
 .log ul li.new:after {
   content:"new";
   color: #ff0000;
-  font-size: smaller;
 }
 
 /*
